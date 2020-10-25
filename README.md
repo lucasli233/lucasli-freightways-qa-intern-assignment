@@ -29,4 +29,4 @@
    node index.js
    ```
 
-   have fun :)
+have fun :)
