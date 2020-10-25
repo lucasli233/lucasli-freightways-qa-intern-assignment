@@ -1,4 +1,4 @@
-# Freightways-qa-intern-assignment
+# lucasli-freightways-qa-intern-assignment
 
 ## Instructions
 
@@ -11,8 +11,8 @@
 2. Clone the [source] with `git`:
 
    ```sh
-   git clone https://github.com/Oblivion233/lucasli-Freightways-qa-intern-assignment
-   cd lucasli-Freightways-qa-intern-assignment
+   git clone https://github.com/Oblivion233/lucasli-freightways-qa-intern-assignment
+   cd lucasli-freightways-qa-intern-assignment
    ```
 
 3. Configure the build settings:
