@@ -8,7 +8,7 @@
    - `node`
    - `npm`
 
-2. Clone the [source] with `git`:
+2. Clone the source with `git`:
 
    ```sh
    git clone https://github.com/Oblivion233/lucasli-freightways-qa-intern-assignment
