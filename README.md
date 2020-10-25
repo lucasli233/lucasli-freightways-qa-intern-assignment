@@ -11,7 +11,7 @@
 2. Clone the source with `git`:
 
    ```sh
-   git clone https://github.com/Oblivion233/lucasli-freightways-qa-intern-assignment
+   git clone https://github.com/lucasli233/lucasli-freightways-qa-intern-assignment
    cd lucasli-freightways-qa-intern-assignment
    ```
 
