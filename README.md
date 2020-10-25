@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. Install dependencies:
+1. Make sure you have installed the dependencies:
 
    - `git`
    - `node`
@@ -15,9 +15,7 @@
    cd lucasli-freightways-qa-intern-assignment
    ```
 
-3. Configure the build settings:
-
-   Install all the dependencies specified by package.jason
+3. Install all dependencies specified by package.jason:
 
    ```sh
    npm install
